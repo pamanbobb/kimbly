@@ -6,6 +6,7 @@
     "cors-anywhere": "^0.4.4"
   },
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "pamanbob",
